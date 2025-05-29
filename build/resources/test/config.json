@@ -1,0 +1,6 @@
+{
+  "staticPages": [
+    { "url": "https://practice.expandtesting.com/", "title": "Practice" },
+    { "url": "https://practice.expandtesting.com/inputs", "title": "Web inputs" }
+  ]
+}

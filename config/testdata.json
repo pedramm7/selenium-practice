@@ -1,0 +1,13 @@
+{
+  "url": "https://practice.expandtesting.com",
+  "credentials": {
+    "username": "practice",
+    "password": "SuperSecretPassword!"
+  },
+  "staticPages": [
+    {
+      "url": "https://practice.expandtesting.com/",
+      "title": "Automation Testing Practice for QA and Developers | UI and API"
+    }
+  ]
+}
