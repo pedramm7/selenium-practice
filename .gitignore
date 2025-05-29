@@ -5,3 +5,5 @@ target/
 *.log
 .idea/
 .vscode/
+build/
+.gradle/
