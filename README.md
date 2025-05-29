@@ -1,6 +1,6 @@
 # Selenium Practice Project
 
-This project automates UI testing for [Expand Testing](https://practice.expandtesting.com) using Selenium WebDriver with Java 17+, JUnit 5, and Gradle. It supports Docker (via docker-compose), uses JSON configuration for test data, and follows the Page Object Model (POM) for a modular test design. Configuration (such as headless mode) can be controlled via environment variables.
+This project automates UI testing for [Expand Testing](https://practice.expandtesting.com) using Selenium WebDriver with Java 21, JUnit 5, and Gradle. It supports Docker (via docker-compose), uses JSON configuration for test data, and follows the Page Object Model (POM) for a modular test design. Configuration (such as headless mode) can be controlled via environment variables.
 
 ## Features
 
