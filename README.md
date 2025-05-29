@@ -27,7 +27,7 @@ This project automates UI testing for [Expand Testing](https://practice.expandte
 
 ## Tech Stack
 
-- Java 17+
+- Java 21
 - Selenium WebDriver
 - JUnit 5
 - Gradle
